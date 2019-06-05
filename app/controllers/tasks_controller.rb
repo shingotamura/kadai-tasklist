@@ -10,7 +10,7 @@ class TasksController < ApplicationController
     
     
     def show
-        @task=correct_user.find(params:id)
+        
         
         
     end
